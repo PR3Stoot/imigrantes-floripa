@@ -10,6 +10,8 @@ import { getAllModules, getModuleBySlug, getContactsByIds } from "@/lib/data/que
 import { Icon } from "@/components/Icon";
 import { ContactCard } from "@/components/ContactCard";
 import { Separator } from "@/components/ui/separator";
+import { colorsFor } from "@/lib/data/colors";
+import { cn } from "@/lib/utils";
 
 export async function generateStaticParams() {
   const modules = getAllModules();
@@ -41,6 +43,7 @@ export default async function ModulePage({
 
   const dict = await getDictionary(lang);
   const t = module.translations[lang];
+  const colors = colorsFor(module.color);
   const allModules = getAllModules();
   const currentIndex = allModules.findIndex((m) => m.slug === module.slug);
   const previousModule = currentIndex > 0 ? allModules[currentIndex - 1] : null;
@@ -58,10 +61,10 @@ export default async function ModulePage({
       </Link>
 
       <div className="mt-6 flex items-center gap-3">
-        <div className="rounded-lg bg-primary/10 p-2.5 text-primary">
+        <div className={cn("rounded-lg p-2.5", colors.iconBg, colors.iconText)}>
           <Icon name={module.icon} className="size-6" />
         </div>
-        <p className="text-sm font-medium text-muted-foreground">
+        <p className={cn("text-sm font-semibold uppercase tracking-wide", colors.stepText)}>
           {dict.trail.step} {module.order}
         </p>
       </div>

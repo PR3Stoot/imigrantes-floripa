@@ -1,4 +1,5 @@
 import type { Locale } from "@/i18n/config";
+import type { ModuleColor } from "./colors";
 
 export interface ModuleTranslation {
   title: string;
@@ -10,6 +11,7 @@ export interface Module {
   slug: string;
   order: number;
   icon: string;
+  color: ModuleColor;
   contactIds: string[];
   translations: Record<Locale, ModuleTranslation>;
 }
@@ -22,6 +24,7 @@ export interface Category {
   slug: string;
   order: number;
   icon: string;
+  color: ModuleColor;
   translations: Record<Locale, CategoryTranslation>;
 }
 

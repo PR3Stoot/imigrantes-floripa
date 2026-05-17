@@ -3,9 +3,11 @@
 import { useMemo, useState } from "react";
 import { Input } from "@/components/ui/input";
 import { ContactCard } from "./ContactCard";
+import { Icon } from "./Icon";
 import type { Contact, Category } from "@/lib/data/types";
 import type { Locale } from "@/i18n/config";
 import type { Dictionary } from "@/i18n/dictionaries";
+import { colorsFor } from "@/lib/data/colors";
 import { cn } from "@/lib/utils";
 
 interface ContactsBrowserProps {
@@ -49,21 +51,38 @@ export function ContactsBrowser({
       />
 
       <div className="mt-4 flex flex-wrap gap-2">
-        <CategoryPill
-          active={activeCategory === null}
+        <button
+          type="button"
           onClick={() => setActiveCategory(null)}
+          className={cn(
+            "rounded-full border px-3 py-1 text-sm transition-colors",
+            activeCategory === null
+              ? "border-foreground bg-foreground text-background"
+              : "border-border text-muted-foreground hover:border-foreground/40 hover:text-foreground",
+          )}
         >
           {dict.contacts.filterAll}
-        </CategoryPill>
-        {categories.map((category) => (
-          <CategoryPill
-            key={category.slug}
-            active={activeCategory === category.slug}
-            onClick={() => setActiveCategory(category.slug)}
-          >
-            {category.translations[locale].name}
-          </CategoryPill>
-        ))}
+        </button>
+        {categories.map((category) => {
+          const isActive = activeCategory === category.slug;
+          const colors = colorsFor(category.color);
+          return (
+            <button
+              key={category.slug}
+              type="button"
+              onClick={() => setActiveCategory(category.slug)}
+              className={cn(
+                "inline-flex items-center gap-1.5 rounded-full border px-3 py-1 text-sm transition-colors",
+                isActive
+                  ? colors.pillActive
+                  : "border-border text-muted-foreground hover:border-foreground/40 hover:text-foreground",
+              )}
+            >
+              <Icon name={category.icon} className="size-3.5" />
+              {category.translations[locale].name}
+            </button>
+          );
+        })}
       </div>
 
       {filtered.length === 0 ? (
@@ -83,28 +102,5 @@ export function ContactsBrowser({
         </div>
       )}
     </div>
-  );
-}
-
-interface CategoryPillProps {
-  active: boolean;
-  onClick: () => void;
-  children: React.ReactNode;
-}
-
-function CategoryPill({ active, onClick, children }: CategoryPillProps) {
-  return (
-    <button
-      type="button"
-      onClick={onClick}
-      className={cn(
-        "rounded-full border px-3 py-1 text-sm transition-colors",
-        active
-          ? "border-primary bg-primary text-primary-foreground"
-          : "border-border text-muted-foreground hover:border-foreground/40 hover:text-foreground",
-      )}
-    >
-      {children}
-    </button>
   );
 }

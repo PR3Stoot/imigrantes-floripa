@@ -1,10 +1,11 @@
 import { Card } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
 import { Phone, Mail, MapPin, Globe, Clock, MessageCircle } from "lucide-react";
 import type { Contact } from "@/lib/data/types";
 import type { Locale } from "@/i18n/config";
 import type { Dictionary } from "@/i18n/dictionaries";
 import { getCategoryBySlug } from "@/lib/data/queries";
+import { colorsFor } from "@/lib/data/colors";
+import { cn } from "@/lib/utils";
 
 interface ContactCardProps {
   contact: Contact;
@@ -16,15 +17,21 @@ export function ContactCard({ contact, locale, dict }: ContactCardProps) {
   const t = contact.translations[locale];
   const category = getCategoryBySlug(contact.categorySlug);
   const categoryName = category?.translations[locale].name;
+  const colors = colorsFor(category?.color);
 
   return (
     <Card className="p-5">
       <div className="flex items-start justify-between gap-3">
         <h3 className="font-semibold leading-tight">{t.name}</h3>
         {categoryName && (
-          <Badge variant="secondary" className="shrink-0">
+          <span
+            className={cn(
+              "shrink-0 rounded-full px-2.5 py-0.5 text-xs font-medium",
+              colors.badge,
+            )}
+          >
             {categoryName}
-          </Badge>
+          </span>
         )}
       </div>
       <p className="mt-2 text-sm text-muted-foreground">{t.description}</p>

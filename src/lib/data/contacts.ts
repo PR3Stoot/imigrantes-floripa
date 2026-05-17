@@ -119,7 +119,7 @@ export const contacts: Contact[] = [
   },
   {
     id: "consorcio-fenix",
-    categorySlug: "documentos",
+    categorySlug: "transporte",
     phone: "(48) 3271-7488",
     address: "Terminal de Integração do Centro (TICEN)",
     website: "https://www.consorciofenix.com.br/passe-rapido",

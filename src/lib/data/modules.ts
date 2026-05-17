@@ -5,6 +5,7 @@ export const modules: Module[] = [
     slug: "documentos-essenciais",
     order: 1,
     icon: "FileText",
+    color: "blue",
     contactIds: ["policia-federal-floripa", "receita-federal-floripa"],
     translations: {
       pt: {
@@ -85,6 +86,7 @@ Sacá primero el CPF. Lo van a pedir en casi todos los otros pasos, incluso para
     slug: "saude-sus",
     order: 2,
     icon: "HeartPulse",
+    color: "rose",
     contactIds: ["sus-cartao", "upa-sul", "samu-192"],
     translations: {
       pt: {
@@ -155,6 +157,7 @@ Guardá en tu celular el teléfono y la dirección de la UBS más cercana a tu c
     slug: "transporte-publico",
     order: 3,
     icon: "Bus",
+    color: "orange",
     contactIds: ["consorcio-fenix"],
     translations: {
       pt: {
@@ -225,6 +228,7 @@ En horas pico (07:00-09:00 y 17:00-19:00) el tránsito es pesado, sobre todo en 
     slug: "trabalho-e-renda",
     order: 4,
     icon: "Briefcase",
+    color: "emerald",
     contactIds: ["sine-floripa"],
     translations: {
       pt: {
@@ -311,6 +315,7 @@ En Florianópolis hay muchas vacantes en **turismo, hotelería y gastronomía** 
     slug: "assistencia-social",
     order: 5,
     icon: "HandHeart",
+    color: "violet",
     contactIds: ["cras-floripa", "caritas-sc"],
     translations: {
       pt: {
@@ -397,6 +402,7 @@ No tengas vergüenza de pedir ayuda. Estos servicios existen exactamente para es
     slug: "educacao",
     order: 6,
     icon: "GraduationCap",
+    color: "teal",
     contactIds: ["plac-ufsc"],
     translations: {
       pt: {
@@ -481,6 +487,7 @@ Aun sin revalidar el título, **muchos cursos de capacitación profesional gratu
     slug: "moradia",
     order: 7,
     icon: "Home",
+    color: "amber",
     contactIds: ["cras-floripa", "caritas-sc"],
     translations: {
       pt: {
@@ -571,6 +578,7 @@ En alta temporada (dic-mar), los alquileres suben mucho en Florianópolis. Si po
     slug: "emergencias",
     order: 8,
     icon: "Siren",
+    color: "red",
     contactIds: [
       "samu-192",
       "policia-militar-190",
