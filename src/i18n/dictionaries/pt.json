@@ -1,0 +1,72 @@
+{
+  "site": {
+    "name": "Imigrantes Floripa",
+    "tagline": "Seu guia prático para começar em Florianópolis"
+  },
+  "nav": {
+    "home": "Início",
+    "trail": "Trilha",
+    "contacts": "Contatos",
+    "about": "Sobre",
+    "signIn": "Entrar",
+    "profile": "Meu perfil",
+    "admin": "Admin"
+  },
+  "home": {
+    "heroTitle": "Chegou em Floripa? A gente te ajuda a se orientar.",
+    "heroSubtitle": "Uma trilha simples, passo a passo, com tudo que você precisa resolver nos primeiros dias na cidade: documentos, saúde, transporte, trabalho e mais.",
+    "ctaTrail": "Começar a trilha",
+    "ctaContacts": "Ver contatos úteis",
+    "sectionModules": "O que você vai encontrar aqui",
+    "sectionAbout": "Por que esse projeto existe",
+    "aboutBody": "Quem chega em uma cidade nova precisa resolver várias coisas ao mesmo tempo e nem sempre sabe por onde começar. Esse portal organiza informações práticas — gratuitamente — para imigrantes que estão em Florianópolis ou se preparando para vir."
+  },
+  "trail": {
+    "title": "Trilha de orientação",
+    "subtitle": "Siga na ordem sugerida ou pule direto para o que você precisa agora.",
+    "step": "Passo",
+    "readModule": "Ler módulo",
+    "relatedContacts": "Contatos relacionados",
+    "noContacts": "Nenhum contato cadastrado neste módulo ainda."
+  },
+  "contacts": {
+    "title": "Contatos úteis",
+    "subtitle": "Órgãos públicos, ONGs e serviços de apoio em Florianópolis.",
+    "searchPlaceholder": "Buscar por nome...",
+    "filterAll": "Todas",
+    "noResults": "Nenhum contato encontrado com esses filtros.",
+    "phone": "Telefone",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "address": "Endereço",
+    "website": "Site",
+    "hours": "Horário"
+  },
+  "about": {
+    "title": "Sobre o projeto",
+    "intro": "Imigrantes Floripa é um portal aberto e gratuito mantido por voluntários. Nasceu da percepção de que muita gente que chega em Florianópolis se perde nos primeiros dias por falta de informação centralizada e em diferentes idiomas.",
+    "openSource": "Esse projeto é open source. Se você quer contribuir com conteúdo, traduções ou código, dá uma olhada no nosso repositório no GitHub.",
+    "disclaimerTitle": "Aviso",
+    "disclaimer": "As informações aqui são uma orientação inicial e podem mudar com o tempo. Sempre confirme nos órgãos oficiais antes de tomar uma decisão importante. Se você encontrar algo errado ou desatualizado, por favor nos avise."
+  },
+  "auth": {
+    "signInTitle": "Entrar",
+    "signInSubtitle": "Use seu e-mail para receber um link de acesso. Nenhuma senha necessária.",
+    "emailLabel": "Seu e-mail",
+    "emailPlaceholder": "voce@exemplo.com",
+    "sendLink": "Enviar link de acesso",
+    "configMissing": "Login ainda não está disponível. Estamos finalizando a integração com o banco de dados.",
+    "profileTitle": "Meu perfil",
+    "progressTitle": "Seu progresso na trilha",
+    "progressEmpty": "Você ainda não marcou nenhum módulo como concluído."
+  },
+  "footer": {
+    "madeWith": "Feito por voluntários em Florianópolis.",
+    "contribute": "Contribuir no GitHub"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "comingSoon": "Em breve",
+    "language": "Idioma"
+  }
+}
