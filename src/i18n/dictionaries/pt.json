@@ -51,10 +51,15 @@
   },
   "about": {
     "title": "Sobre o projeto",
-    "intro": "Imigrantes Floripa é um portal aberto e gratuito mantido por voluntários. Nasceu da percepção de que muita gente que chega em Florianópolis se perde nos primeiros dias por falta de informação centralizada e em diferentes idiomas.",
-    "openSource": "Esse projeto é open source. Se você quer contribuir com conteúdo, traduções ou código, dá uma olhada no nosso repositório no GitHub.",
-    "disclaimerTitle": "Aviso",
-    "disclaimer": "As informações aqui são uma orientação inicial e podem mudar com o tempo. Sempre confirme nos órgãos oficiais antes de tomar uma decisão importante. Se você encontrar algo errado ou desatualizado, por favor nos avise."
+    "intro": "Imigrantes Floripa é um portal aberto e gratuito que organiza informações práticas pra quem chega — ou se prepara pra chegar — em Florianópolis. A ideia é reduzir o caos dos primeiros dias na cidade: documentos, transporte, saúde, trabalho, moradia e tudo mais que costuma travar por falta de orientação centralizada e em mais de um idioma.",
+    "academicTitle": "Projeto de extensão da CESUTech",
+    "academicLead": "Conectando Gerações e Impulsionando o Futuro e o Protagonismo Digital",
+    "academicBody": "Este portal foi desenvolvido como parte de um projeto de extensão da CESUTech, vinculado ao Centro Universitário Cesusc (CESUSC), em Florianópolis. Apesar da origem acadêmica, o foco é prático: ser uma ferramenta real de utilidade pública para migrantes na cidade.",
+    "openSourceTitle": "Open source",
+    "openSource": "O código e o conteúdo são abertos. Quem quiser contribuir com textos, traduções, novos contatos ou melhorias técnicas pode acessar o repositório no GitHub:",
+    "openSourceLink": "PR3Stoot/imigrantes-floripa",
+    "disclaimerTitle": "Aviso importante",
+    "disclaimer": "As informações aqui são uma orientação inicial e podem mudar com o tempo. Sempre confirme nos órgãos oficiais antes de tomar uma decisão importante. Se você encontrar algo errado ou desatualizado, por favor nos avise pelo GitHub."
   },
   "auth": {
     "signInTitle": "Entrar",
