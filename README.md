@@ -2,6 +2,10 @@
 
 Portal público e open-source para imigrantes que chegam ou se preparam para morar em Florianópolis. Trilha guiada com módulos práticos (documentos, saúde, transporte, trabalho, etc.) e diretório de contatos úteis. Disponível em português e espanhol.
 
+**🌐 Acesse agora:** [imigrantes-floripa.vercel.app](https://imigrantes-floripa.vercel.app)
+
+Projeto de extensão da **CESUTech** — *Conectando Gerações e Impulsionando o Futuro e o Protagonismo Digital* — vinculado ao Centro Universitário Cesusc (CESUSC), em Florianópolis.
+
 > Status: **MVP em desenvolvimento.** O site público funciona com dados estáticos. A integração com Supabase (login opcional + painel admin) será habilitada na próxima etapa.
 
 ## Stack
