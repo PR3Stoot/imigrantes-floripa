@@ -12,21 +12,21 @@ export const modules: Module[] = [
         title: "Documentos essenciais",
         summary:
           "Os primeiros documentos que você precisa tirar ao chegar: CPF, CRNM e CTPS.",
-        body: `**Pra ter vida prática no Brasil, você precisa de dois documentos: CPF e CRNM.** Sem eles, banco, hospital, escola, contrato — quase tudo trava.
+        body: `**Pra ter vida prática no Brasil, dois documentos abrem quase todas as portas: CPF e CRNM.** Eles facilitam muito banco, contrato, escola e o acompanhamento de serviços — embora atendimento de urgência e emergência nunca possa ser negado por falta de documento.
 
-A boa notícia: o **CPF é gratuito e sai no mesmo dia**. A CRNM exige agendamento na Polícia Federal e tem custo, mas é o seu documento oficial enquanto você estiver no país. A Carteira de Trabalho hoje é totalmente digital — você nem sai de casa pra ter.
+A boa notícia: o **CPF é gratuito** e, na maioria dos casos, pode ser solicitado online. A CRNM exige agendamento na Polícia Federal e tem custo, mas é o seu documento oficial enquanto você estiver no país. A Carteira de Trabalho hoje é totalmente digital — você nem sai de casa pra ter.
 
-> **Comece pelo CPF.** Ele é exigido até pra emitir a CRNM. Sem CPF, você trava nos outros documentos também.`,
+> **Comece pelo CPF.** Ele é exigido até pra emitir a CRNM, então facilita todo o resto.`,
       },
       es: {
         title: "Documentos esenciales",
         summary:
           "Los primeros documentos que necesitás sacar al llegar: CPF, CRNM y CTPS.",
-        body: `**Para tener vida práctica en Brasil, necesitás dos documentos: CPF y CRNM.** Sin ellos, banco, hospital, escuela, contrato — casi todo se traba.
+        body: `**Para tener vida práctica en Brasil, dos documentos abren casi todas las puertas: CPF y CRNM.** Facilitan mucho banco, contrato, escuela y el seguimiento de servicios — aunque la atención de urgencia y emergencia nunca puede negarse por falta de documento.
 
-La buena noticia: el **CPF es gratis y sale el mismo día**. La CRNM exige agendamiento en la Policía Federal y tiene costo, pero es tu documento oficial mientras estés en el país. La Libreta de Trabajo hoy es totalmente digital — ni siquiera salís de casa para tenerla.
+La buena noticia: el **CPF es gratis** y, en la mayoría de los casos, puede solicitarse online. La CRNM exige agendamiento en la Policía Federal y tiene costo, pero es tu documento oficial mientras estés en el país. La Libreta de Trabajo hoy es totalmente digital — ni siquiera salís de casa para tenerla.
 
-> **Empezá por el CPF.** Lo van a pedir hasta para emitir la CRNM. Sin CPF, te trabás también para los otros documentos.`,
+> **Empezá por el CPF.** Lo van a pedir hasta para emitir la CRNM, así que facilita todo lo demás.`,
       },
     },
     topics: [
@@ -39,80 +39,74 @@ La buena noticia: el **CPF es gratis y sale el mismo día**. La CRNM exige agend
             title: "CPF (Cadastro de Pessoa Física)",
             summary:
               "Documento de identificação fiscal. Gratuito e obrigatório pra quase tudo.",
-            body: `**Tire o CPF antes de tudo.** Sem ele você trava em quase tudo: banco, contrato de aluguel, posto de saúde, escola, compra com nota fiscal.
+            body: `**Tire o CPF antes de tudo.** Sem ele você trava em quase tudo: banco, contrato de aluguel, escola, compra com nota fiscal.
 
-A boa notícia: é **gratuito** na Receita Federal e sai pronto no mesmo balcão, em poucos minutos.
+A boa notícia: é **gratuito** pelos canais oficiais da Receita Federal e, na maioria dos casos, dá pra resolver **online**, sem sair de casa.
 
 ## Como tirar (passo a passo)
 
-1. **Agende** no site da Receita Federal e vá à unidade de Florianópolis — **Rua Claudino Bento da Silva, 11**, no centro. (Dá pra fazer **online**, de graça, sem sair de casa.)
-2. Apresente os documentos abaixo.
-3. Receba o número de CPF na hora.
+1. Tente primeiro **online**, no site da Receita Federal ([gov.br/receitafederal](https://www.gov.br/receitafederal/pt-br)). O comprovante de CPF é digital e costuma sair na hora.
+2. Se precisar de **atendimento presencial** em Florianópolis, é no CAC da Receita Federal — **Rua Claudino Bento da Silva, 11, Centro** — **somente com agendamento prévio** (8h às 16h).
+3. Também dá pra resolver em **unidades conveniadas** (Correios, Caixa, Banco do Brasil, alguns cartórios), que cobram uma taxa.
 
-> **Atendimento rápido.** O CPF para migrantes costuma sair em 15–30 minutos. O atendimento presencial na Receita é **mediante agendamento**; as entidades conveniadas (Correios, Banco do Brasil, Caixa) atendem sem agendar, com taxa de R$ 7.
+> **Confirme antes de ir.** Endereço, horário e agendamento mudam — verifique em [gov.br/receitafederal](https://www.gov.br/receitafederal/pt-br). O atendimento presencial não é por ordem de chegada, então agende.
 
 ## O que levar
 
 - **Passaporte** ou documento de identidade do seu país (original).
 - **Comprovante de endereço**, mesmo provisório (conta de luz, contrato de aluguel, declaração de hospedagem assinada).
 
-> **Não tem comprovante?** Você pode assinar uma **autodeclaração de endereço** no balcão. É aceita.
+> **Não tem comprovante?** Em muitos casos você pode assinar uma **autodeclaração de endereço**. Confirme no atendimento.
 
 ## Onde tirar e quanto custa
 
 | Local | Custo | Observação |
 | --- | --- | --- |
-| Receita Federal | **Grátis** | Atendimento próprio pra migrantes |
-| Caixa Econômica | ~R$ 7 | Útil se a Receita estiver cheia |
-| Banco do Brasil | ~R$ 7 | Idem |
-| Correios | ~R$ 7 | Mesma coisa |
-
-Se não tem pressa, a Receita compensa pelo preço.
+| Site da Receita (online) | **Grátis** | Caminho mais rápido na maioria dos casos |
+| Receita Federal (presencial) | **Grátis** | Só com agendamento prévio |
+| Correios, Caixa, Banco do Brasil, cartórios | **até R$ 7,00** | Útil pra resolver no balcão sem agendar |
 
 ## Depois de tirar
 
 - **Salve o número** no celular (Notas, app gov.br, onde for).
-- **Tire foto** do papel que entregaram.
+- **Guarde o comprovante** — o CPF hoje é digital, não tem mais cartão de papel.
 - Já dá pra **criar sua conta gov.br** com esse CPF, que destrava CTPS, SUS, INSS, Receita e outros serviços.`,
           },
           es: {
             title: "CPF (Catastro de Persona Física)",
             summary:
               "Documento de identificación fiscal. Gratis y obligatorio para casi todo.",
-            body: `**Sacá el CPF antes que cualquier otra cosa.** Sin él, te trabás en casi todo: banco, contrato de alquiler, centro de salud, escuela, compra con factura.
+            body: `**Sacá el CPF antes que cualquier otra cosa.** Sin él, te trabás en casi todo: banco, contrato de alquiler, escuela, compra con factura.
 
-Buena noticia: es **gratis** en la Receita Federal y sale listo en el mismo mostrador, en pocos minutos.
+Buena noticia: es **gratis** por los canales oficiales de la Receita Federal y, en la mayoría de los casos, se puede resolver **online**, sin salir de casa.
 
 ## Cómo sacarlo (paso a paso)
 
-1. **Agendá** en el sitio de la Receita Federal y andá a la unidad de Florianópolis — **Rua Claudino Bento da Silva, 11**, en el centro. (Se puede hacer **online**, gratis, sin salir de casa.)
-2. Presentá los documentos abajo.
-3. Recibís el número de CPF en el momento.
+1. Probá primero **online**, en el sitio de la Receita Federal ([gov.br/receitafederal](https://www.gov.br/receitafederal/pt-br)). El comprobante de CPF es digital y suele salir en el momento.
+2. Si necesitás **atención presencial** en Florianópolis, es en el CAC de la Receita Federal — **Rua Claudino Bento da Silva, 11, Centro** — **solo con turno previo** (8h a 16h).
+3. También podés resolverlo en **unidades convenidas** (Correios, Caixa, Banco do Brasil, algunas escribanías), que cobran una tasa.
 
-> **Atención rápida.** El CPF para migrantes suele salir en 15–30 minutos. La atención presencial en la Receita es **con cita previa**; las entidades convenidas (Correios, Banco do Brasil, Caixa) atienden sin cita, con tasa de R$ 7.
+> **Confirmá antes de ir.** Dirección, horario y turno cambian — verificá en [gov.br/receitafederal](https://www.gov.br/receitafederal/pt-br). La atención presencial no es por orden de llegada, así que sacá turno.
 
 ## Qué llevar
 
 - **Pasaporte** o documento de identidad de tu país (original).
 - **Comprobante de domicilio**, incluso provisorio (boleta de luz, contrato de alquiler, declaración firmada de quien te hospeda).
 
-> **¿No tenés comprobante?** Podés firmar una **autodeclaración de domicilio** en el mostrador. Se acepta.
+> **¿No tenés comprobante?** En muchos casos podés firmar una **autodeclaración de domicilio**. Confirmalo en la atención.
 
 ## Dónde sacarlo y cuánto cuesta
 
 | Lugar | Costo | Observación |
 | --- | --- | --- |
-| Receita Federal | **Gratis** | Atención específica para migrantes |
-| Caixa Econômica | ~R$ 7 | Útil si la Receita está llena |
-| Banco do Brasil | ~R$ 7 | Lo mismo |
-| Correios | ~R$ 7 | Lo mismo |
-
-Si no tenés apuro, la Receita conviene por el precio.
+| Sitio de la Receita (online) | **Gratis** | El camino más rápido en la mayoría de los casos |
+| Receita Federal (presencial) | **Gratis** | Solo con turno previo |
+| Correios, Caixa, Banco do Brasil, escribanías | **hasta R$ 7,00** | Útil para resolver en mostrador sin sacar turno |
 
 ## Después de sacarlo
 
 - **Guardá el número** en el celular (Notas, app gov.br, donde sea).
-- **Sacale foto** al papel que te entregaron.
+- **Guardá el comprobante** — el CPF hoy es digital, ya no hay tarjeta de papel.
 - Ya podés **crear tu cuenta gov.br** con ese CPF, que destraba CTPS, SUS, INSS, Receita y otros servicios.`,
           },
         },
@@ -133,7 +127,7 @@ Si no tenés apuro, la Receita conviene por el precio.
 ## Como tirar (passo a passo)
 
 1. **Agende** pelo site da Polícia Federal: [gov.br/pf](https://www.gov.br/pf). **Atendimento sem agendamento não acontece.**
-2. **Gere e pague as GRUs** (Guias de Recolhimento da União): **R$ 168,13** (processamento do pedido de residência) + **R$ 204,77** (emissão da CRNM), cerca de **R$ 373** no total. Não há isenção da taxa de emissão.
+2. **Gere e pague a GRU** (Guia de Recolhimento da União). A taxa de emissão da CRNM é **R$ 204,77**; quando também é preciso pedir autorização de residência, há a taxa de processamento de **R$ 168,13** (cerca de **R$ 373** somando as duas). Há **isenções** em casos como refúgio, apatridia, naturalização e situações humanitárias. Os valores mudam: confira na página de taxas da PF.
 3. **Reúna os documentos** abaixo.
 4. **Compareça à PF na data agendada** com tudo em mãos.
 
@@ -149,10 +143,10 @@ Si no tenés apuro, la Receita conviene por el precio.
 
 ## Onde fica
 
-**Posto de Migração da Polícia Federal (Floripa Shopping)**
-Loja 132 — Rod. SC-401, 3116, Saco Grande · Seg-Sex 10:00-17:00
+**Delegacia de Migração da Polícia Federal — Floripa Shopping**
+Loja 132, térreo — Rod. SC-401, 3116, Saco Grande, Florianópolis
 
-Só atende com agendamento.
+Seg–sex, 10h–17h, **somente com agendamento online**. O atendimento de migração mudou de endereço recentemente — confirme em [gov.br/pf](https://www.gov.br/pf) antes de ir.
 
 ## Depois da PF — atenção ao protocolo provisório
 
@@ -180,7 +174,7 @@ Renove **antes de expirar** — perder o prazo gera multa e burocracia extra.`,
 ## Cómo sacarla (paso a paso)
 
 1. **Agendá** por el sitio de la Policía Federal: [gov.br/pf](https://www.gov.br/pf). **Atención sin agendamiento no se da.**
-2. **Generá y pagá las GRU** (Guías de Recaudación de la Unión): **R$ 168,13** (procesamiento del pedido de residencia) + **R$ 204,77** (emisión de la CRNM), cerca de **R$ 373** en total. No hay exención de la tasa de emisión.
+2. **Generá y pagá la GRU** (Guía de Recaudación de la Unión). La tasa de emisión de la CRNM es **R$ 204,77**; cuando también hay que pedir autorización de residencia, está la tasa de procesamiento de **R$ 168,13** (cerca de **R$ 373** sumando ambas). Hay **exenciones** en casos como refugio, apatridia, naturalización y situaciones humanitarias. Los valores cambian: confirmá en la página de tasas de la PF.
 3. **Juntá los documentos** abajo.
 4. **Andá a la PF en la fecha agendada** con todo en mano.
 
@@ -196,10 +190,10 @@ Renove **antes de expirar** — perder o prazo gera multa e burocracia extra.`,
 
 ## Dónde queda
 
-**Puesto de Migración de la Policía Federal (Floripa Shopping)**
-Local 132 — Rod. SC-401, 3116, Saco Grande · Lun-Vie 10:00-17:00
+**Delegación de Migración de la Policía Federal — Floripa Shopping**
+Local 132, planta baja — Rod. SC-401, 3116, Saco Grande, Florianópolis
 
-Solo atiende con agendamiento.
+Lun–vie, 10h–17h, **solo con turno online**. La atención de migración cambió de dirección hace poco — confirmá en [gov.br/pf](https://www.gov.br/pf) antes de ir.
 
 ## Después de la PF — atención al protocolo provisorio
 
@@ -687,6 +681,8 @@ Los niños tienen un calendario mucho más extenso — preguntá en la UBS sobre
 
 > **Quem paga com cartão paga menos** que quem paga em dinheiro. Vale tirar o Passe Rápido logo nos primeiros dias.
 
+As tarifas e as regras de integração mudam — **confira os valores atuais e o prazo de integração no site oficial do Consórcio Fênix**.
+
 Os tópicos abaixo explicam como tirar e usar o cartão, quem tem direito à tarifa social e quais apps facilitam o dia a dia.
 
 Em **horário de pico (07h–09h e 17h–19h)**, o trânsito pesa, principalmente no centro. Saia com folga.`,
@@ -698,6 +694,8 @@ Em **horário de pico (07h–09h e 17h–19h)**, o trânsito pesa, principalment
         body: `**El transporte público de Floripa es principalmente colectivos (ônibus)**, operado por el Consorcio Fênix. El sistema tiene **6 terminales de integración** que permiten cambiar de línea sin pagar tarifa nueva — gran ventaja para trayectos largos.
 
 > **Quien paga con tarjeta paga menos** que quien paga en efectivo. Vale sacar el Passe Rápido en los primeros días.
+
+Las tarifas y las reglas de integración cambian — **consultá los valores actuales y el plazo de integración en el sitio oficial del Consorcio Fênix**.
 
 Los temas debajo explican cómo sacar y usar la tarjeta, quién tiene derecho a la tarifa social y qué apps facilitan el día a día.
 
@@ -733,7 +731,7 @@ En **hora pico (07h–09h y 17h–19h)**, el tránsito pesa, sobre todo en el ce
 | **Casas lotéricas** | Em dinheiro |
 | **App Consórcio Fênix** | Pix ou cartão de crédito, 24h |
 
-> **Não dá pra recarregar dentro do ônibus.** Zerou e tá indo embarcar? Recarregue no terminal mais próximo ou pague em dinheiro com o valor exato (motorista nem sempre tem troco).
+> **Não dá pra recarregar dentro do ônibus** — e, desde 2026, **o dinheiro não é mais aceito a bordo**, só nas bilheterias dos terminais. Zerou o saldo? Recarregue antes de embarcar ou pague com **QR Code/Pix**. Confirme as formas de pagamento atuais no site do Consórcio Fênix.
 
 ## Integração entre linhas (a grande vantagem)
 
@@ -768,7 +766,7 @@ Você pode trocar de linha **sem pagar tarifa nova** em qualquer um dos **6 term
 | **Casas lotéricas** | En efectivo |
 | **App Consórcio Fênix** | Pix o tarjeta de crédito, 24h |
 
-> **No se puede recargar dentro del colectivo.** ¿Te quedaste sin saldo y estás por subir? Recargá en el terminal más cercano o pagá en efectivo con el monto exacto (el chofer no siempre tiene cambio).
+> **No se puede recargar dentro del colectivo** — y, desde 2026, **el efectivo ya no se acepta a bordo**, solo en las boleterías de los terminales. ¿Sin saldo? Recargá antes de subir o pagá con **QR Code/Pix**. Confirmá las formas de pago actuales en el sitio del Consorcio Fênix.
 
 ## Integración entre líneas (la gran ventaja)
 
@@ -955,7 +953,7 @@ Los dos funcionan offline para rutas ya consultadas, pero necesitan internet par
         title: "Trabalho e renda",
         summary:
           "Como procurar emprego, direitos básicos e onde se cadastrar para vagas.",
-        body: `**Pra trabalhar formalmente no Brasil você precisa de CPF e CRNM** (ou outro documento que comprove sua situação migratória regular). Sem isso, só dá pra fazer trabalho informal.
+        body: `**Para a contratação formal (CLT), o empregador normalmente vai exigir CPF e documentação migratória regular ou protocolo válido.** Mesmo assim, ninguém deve aceitar exploração, retenção de documentos, ameaça ou trabalho sem pagamento — migrantes e refugiados têm direito à proteção trabalhista. Em caso de abuso, procure o SINE, a DPU, o MPT, o CRAS ou organizações de apoio.
 
 Floripa tem um mercado de trabalho mais quente que a média do país, principalmente em **turismo e hotelaria** (alta temporada dezembro–março), **gastronomia, construção civil** e **tecnologia** (várias startups locais).
 
@@ -965,7 +963,7 @@ Floripa tem um mercado de trabalho mais quente que a média do país, principalm
         title: "Trabajo e ingresos",
         summary:
           "Cómo buscar empleo, derechos básicos y dónde registrarse para vacantes.",
-        body: `**Para trabajar formalmente en Brasil necesitás CPF y CRNM** (u otro documento que pruebe tu situación migratoria regular). Sin eso, solo podés hacer trabajo informal.
+        body: `**Para la contratación formal (CLT), el empleador normalmente va a exigir CPF y documentación migratoria regular o protocolo válido.** Aun así, nadie debe aceptar explotación, retención de documentos, amenazas o trabajo sin pago — migrantes y refugiados tienen derecho a la protección laboral. En caso de abuso, recurrí al SINE, la DPU, el MPT, el CRAS u organizaciones de apoyo.
 
 Floripa tiene un mercado de trabajo más caliente que la media del país, sobre todo en **turismo y hotelería** (alta temporada diciembre–marzo), **gastronomía, construcción** y **tecnología** (varias startups locales).
 
@@ -984,7 +982,7 @@ Floripa tiene un mercado de trabajo más caliente que la media del país, sobre 
               "Trabalho de carteira assinada — o que o empregador é obrigado a te dar.",
             body: `**CLT é o regime de trabalho formal no Brasil — o famoso "carteira assinada".** Te dá um conjunto de direitos que vão muito além do salário.
 
-Pra ser contratado em CLT você precisa de **CPF** e **CRNM** (ou outro documento de regularização migratória). Sem isso, só trabalho informal.
+Pra ser contratado em CLT, o empregador normalmente vai pedir **CPF** e **CRNM** (ou outro documento de regularização migratória ou protocolo válido). Mesmo sem o registro formal, ninguém perde os direitos trabalhistas básicos nem deve aceitar exploração — em caso de abuso, procure o SINE, a DPU, o MPT ou o sindicato.
 
 ## Seus direitos básicos
 
@@ -1020,7 +1018,7 @@ Pra ser contratado em CLT você precisa de **CPF** e **CRNM** (ou outro document
               "Trabajo en blanco (carteira assinada) — lo que el empleador está obligado a darte.",
             body: `**CLT es el régimen de trabajo formal en Brasil — el famoso "carteira assinada".** Te da un conjunto de derechos que va mucho más allá del salario.
 
-Para ser contratado en CLT necesitás **CPF** y **CRNM** (u otro documento de regularización migratoria). Sin eso, solo trabajo informal.
+Para ser contratado en CLT, el empleador normalmente va a pedir **CPF** y **CRNM** (u otro documento de regularización migratoria o protocolo válido). Incluso sin el registro formal, nadie pierde los derechos laborales básicos ni debe aceptar explotación — en caso de abuso, recurrí al SINE, la DPU, el MPT o el sindicato.
 
 ## Tus derechos básicos
 
@@ -1065,7 +1063,7 @@ Para ser contratado en CLT necesitás **CPF** y **CRNM** (u otro documento de re
 
 ## Canais oficiais
 
-- **SINE** (Sistema Nacional de Emprego): cadastro gratuito pra vagas formais. Tem posto físico no centro (Terminal Rita Maria, 2º andar — Av. Paulo Fontes, 1101) e pelo site [gov.br/sine](https://www.gov.br/empregabrasil/pt-br).
+- **SINE** (Sistema Nacional de Emprego): cadastro gratuito pra vagas formais. O posto fica no **Terminal Rodoviário Rita Maria, 2º andar** (Av. Paulo Fontes, 1101, Centro) — confirme o horário antes de ir — e também dá pra usar o site [gov.br/sine](https://www.gov.br/empregabrasil/pt-br).
 - **App Sine Fácil**: vagas, encaminhamento e habilitação do seguro-desemprego no celular.
 
 ## Plataformas online
@@ -1108,7 +1106,7 @@ Busque por "Vagas Floripa", "Empregos Florianópolis", "Vagas Hotelaria SC". Tem
 
 ## Canales oficiales
 
-- **SINE** (Sistema Nacional de Empleo): registro gratuito para vacantes formales. Tiene puesto físico en el centro (Terminal Rita Maria, 2º piso — Av. Paulo Fontes, 1101) y por el sitio [gov.br/sine](https://www.gov.br/empregabrasil/pt-br).
+- **SINE** (Sistema Nacional de Empleo): registro gratuito para vacantes formales. El puesto está en el **Terminal Rodoviário Rita Maria, 2º piso** (Av. Paulo Fontes, 1101, Centro) — confirmá el horario antes de ir — y también podés usar el sitio [gov.br/sine](https://www.gov.br/empregabrasil/pt-br).
 - **App Sine Fácil**: vacantes, derivación y solicitud del seguro de desempleo desde el celular.
 
 ## Plataformas online
@@ -1521,7 +1519,7 @@ Em Florianópolis funciona o **Centro POP** (vinculado ao CREAS), com:
 - Vá à **DEAM** (Delegacia Especializada de Atendimento à Mulher).
 - O CREAS articula com **abrigos de proteção** pra mulheres e crianças em risco.
 
-> **Você tem direito a intérprete.** Se não fala português, peça — em violência doméstica, comunicação é crítica.`,
+> **Se não fala português, peça intérprete ou mediação.** Em violência doméstica, a comunicação é crítica — se não conseguir se comunicar, registre e procure apoio (DPU, CRAS, Disque 100).`,
           },
           es: {
             title: "CREAS — cuándo recurrir",
@@ -1562,7 +1560,7 @@ En Florianópolis funciona el **Centro POP** (vinculado al CREAS), con:
 - Andá a la **DEAM** (Delegación Especializada de Atención a la Mujer).
 - El CREAS articula con **refugios de protección** para mujeres y niños en riesgo.
 
-> **Tenés derecho a intérprete.** Si no hablás portugués, pedilo — en violencia doméstica, la comunicación es crítica.`,
+> **Si no hablás portugués, pedí intérprete o mediación.** En violencia doméstica, la comunicación es crítica — si no lográs comunicarte, dejá registro y buscá apoyo (DPU, CRAS, Disque 100).`,
           },
         },
       },
@@ -1588,7 +1586,7 @@ Faz parte de uma rede internacional ligada à Igreja Católica, mas **atende qua
 - **Cursos** de português e capacitação profissional.
 - **Ajuda emergencial** (alimentação, roupa, kit de higiene) em casos críticos.
 
-Atendimento a migrantes na Casa de Direitos — R. Antônio Mariano de Souza, 1135, São José (Seg-Sex 13:30-18:00).
+Atendimento a migrantes na Grande Florianópolis pela **Casa de Direitos** (Cáritas SC), em São José — Rua Antônio Mariano de Souza, 1135 (Seg-Sex 13:30-18:00). Confirme endereço, contato e horário atuais antes de ir.
 
 ## Pastoral do Migrante
 
@@ -1634,7 +1632,7 @@ Forma parte de una red internacional vinculada a la Iglesia Católica, pero **at
 - **Cursos** de portugués y capacitación profesional.
 - **Ayuda de emergencia** (alimentos, ropa, kit de higiene) en casos críticos.
 
-Atención a migrantes en la Casa de Direitos — R. Antônio Mariano de Souza, 1135, São José (Lun-Vie 13:30-18:00).
+Atención a migrantes en la Gran Florianópolis por la **Casa de Direitos** (Cáritas SC), en São José — Rua Antônio Mariano de Souza, 1135 (Lun-Vie 13:30-18:00). Confirmá dirección, contacto y horario actuales antes de ir.
 
 ## Pastoral del Migrante
 
@@ -1732,7 +1730,7 @@ Para hablar con el equipo, accedé a la [página de contacto de Círculos de Hos
         body: `**A educação pública no Brasil é gratuita** e, no caso das crianças, **garantida por lei** — inclusive a migrantes em situação irregular. Você tem direito a:
 
 - **Matricular** seus filhos na escola, mesmo sem CRNM.
-- Aprender **português gratuitamente** em programas como o PLAc da UFSC.
+- Aprender **português gratuitamente** em programas de acolhimento para migrantes (como iniciativas da UFSC e do IFSC).
 - **Revalidar** seu diploma do exterior pra atuar profissionalmente.
 - Fazer **cursos técnicos** gratuitos (SENAI, SENAC, IFSC) que aceleram a entrada no mercado.
 
@@ -1745,7 +1743,7 @@ Para hablar con el equipo, accedé a la [página de contacto de Círculos de Hos
         body: `**La educación pública en Brasil es gratuita** y, en el caso de los niños, **garantizada por ley** — incluso a migrantes en situación irregular. Tenés derecho a:
 
 - **Matricular** a tus hijos en la escuela, incluso sin CRNM.
-- Aprender **portugués gratis** en programas como el PLAc de la UFSC.
+- Aprender **portugués gratis** en programas de acogida para migrantes (como iniciativas de la UFSC y del IFSC).
 - **Revalidar** tu título del exterior para ejercer profesionalmente.
 - Hacer **cursos técnicos** gratuitos (SENAI, SENAC, IFSC) que aceleran la entrada al mercado.
 
@@ -1846,35 +1844,27 @@ En Floripa, la red pública atiende desde el jardín hasta la secundaria.
         contactIds: ["plac-ufsc"],
         translations: {
           pt: {
-            title: "Aprender português (PLAc UFSC e outros)",
+            title: "Aprender português (cursos gratuitos em Floripa)",
             summary:
               "Cursos gratuitos de português pra migrantes e refugiados em Floripa.",
-            body: `**Em Floripa há cursos gratuitos de português específicos pra migrantes e refugiados** — o principal é o **PLAc da UFSC**. Não é só "aula de idioma": o foco é português pra você se virar no Brasil (banco, médico, escola, trabalho).
+            body: `**Em Floripa há cursos gratuitos de português específicos pra migrantes e refugiados.** Não é só "aula de idioma": o foco é português pra você se virar no Brasil (banco, médico, escola, trabalho).
 
-## PLAc UFSC (principal opção)
+## Onde procurar (opções gratuitas)
 
-**Português como Língua de Acolhimento** é um programa da Universidade Federal de Santa Catarina.
-
-| Característica | Detalhe |
+| Onde | O que oferece |
 | --- | --- |
-| **Custo** | Gratuito |
-| **Modalidade** | Presencial (campus Trindade) e online |
-| **Níveis** | Básico, intermediário, avançado |
-| **Quem pode** | Qualquer migrante ou refugiado, qualquer nacionalidade |
-| **Duração** | Em geral 4 meses por nível |
+| **NePLAc (UFSC)** | Projeto Rodamundo — turmas de português para imigrantes e refugiados, inscrição por edital a cada semestre, campus Trindade |
+| **PET Letras (UFSC)** | Curso "Português para Imigrantes e Refugiados", turmas básico e intermediário, campus Trindade |
+| **Idiomas Sem Fronteiras (UFSC)** | Português de acolhimento para migrantes e refugiados |
+| **IFSC** | Cursos de "Português para Estrangeiros" (confirme se há turma no campus de Florianópolis no semestre) |
+| **Cáritas SC / Pastoral do Migrante** | Cursos e grupos de conversação, geralmente junto com outras orientações |
+| **Igrejas e ONGs locais** | Muitas oferecem aulas pra suas comunidades — pergunte na sua região |
 
-### Como se inscrever
+> **As turmas e inscrições mudam a cada semestre.** Antes de contar com um curso, confirme se as inscrições estão abertas e como participar. A **Rede de Apoio a Imigrantes e Refugiados em Florianópolis** e os contatos da UFSC ajudam a achar a turma ativa.
 
-1. Acesse o site [plac.paginas.ufsc.br](https://plac.paginas.ufsc.br) ou escreva pra **plac.ufsc@gmail.com**.
-2. As **inscrições abrem geralmente em fevereiro e em agosto** (início de semestre).
-3. Você faz uma **prova de nivelamento** rápida pra entrar na turma certa.
+## Aplicativos como complemento
 
-## Outras opções na cidade
-
-- **Cáritas SC**: oferece cursos pontuais de português, geralmente associados a outras orientações.
-- **Pastoral do Migrante**: tem grupos de conversação informais.
-- **Igrejas e ONGs locais**: muitas oferecem aulas de português pra suas comunidades. Pergunte na sua região.
-- **Aplicativos**: Duolingo, Tandem (pra praticar com falantes nativos) — bons complementos, não substituem aula presencial.
+Duolingo e Tandem (pra praticar com falantes nativos) ajudam, mas **não substituem** a aula presencial e o convívio.
 
 ## Dicas pra aprender mais rápido
 
@@ -1886,35 +1876,27 @@ En Floripa, la red pública atiende desde el jardín hasta la secundaria.
 > **Aprender o português é o investimento de maior retorno nos primeiros meses.** Tudo fica mais fácil: trabalho, documentos, amizade, integração geral.`,
           },
           es: {
-            title: "Aprender portugués (PLAc UFSC y otros)",
+            title: "Aprender portugués (cursos gratuitos en Floripa)",
             summary:
               "Cursos gratuitos de portugués para migrantes y refugiados en Floripa.",
-            body: `**En Floripa hay cursos gratuitos de portugués específicos para migrantes y refugiados** — el principal es el **PLAc de la UFSC**. No es solo "clase de idioma": el foco es el portugués para que te puedas mover en Brasil (banco, médico, escuela, trabajo).
+            body: `**En Floripa hay cursos gratuitos de portugués específicos para migrantes y refugiados.** No es solo "clase de idioma": el foco es el portugués para que te puedas mover en Brasil (banco, médico, escuela, trabajo).
 
-## PLAc UFSC (opción principal)
+## Dónde buscar (opciones gratuitas)
 
-**Portugués como Lengua de Acogida** es un programa de la Universidad Federal de Santa Catarina.
-
-| Característica | Detalle |
+| Dónde | Qué ofrece |
 | --- | --- |
-| **Costo** | Gratuito |
-| **Modalidad** | Presencial (campus Trindade) y online |
-| **Niveles** | Básico, intermedio, avanzado |
-| **Quién puede** | Cualquier migrante o refugiado, cualquier nacionalidad |
-| **Duración** | En general 4 meses por nivel |
+| **NePLAc (UFSC)** | Proyecto Rodamundo — clases de portugués para inmigrantes y refugiados, inscripción por convocatoria cada semestre, campus Trindade |
+| **PET Letras (UFSC)** | Curso "Português para Imigrantes e Refugiados", grupos básico e intermedio, campus Trindade |
+| **Idiomas Sem Fronteiras (UFSC)** | Portugués de acogida para migrantes y refugiados |
+| **IFSC** | Cursos de "Portugués para Extranjeros" (confirmá si hay grupo en el campus de Florianópolis en el semestre) |
+| **Cáritas SC / Pastoral del Migrante** | Cursos y grupos de conversación, en general junto con otras orientaciones |
+| **Iglesias y ONGs locales** | Muchas ofrecen clases para sus comunidades — preguntá en tu región |
 
-### Cómo inscribirse
+> **Los grupos e inscripciones cambian cada semestre.** Antes de contar con un curso, confirmá si las inscripciones están abiertas y cómo participar. La **Red de Apoyo a Inmigrantes y Refugiados en Florianópolis** y los contactos de la UFSC ayudan a encontrar el grupo activo.
 
-1. Accedé al sitio [plac.paginas.ufsc.br](https://plac.paginas.ufsc.br) o escribí a **plac.ufsc@gmail.com**.
-2. Las **inscripciones abren generalmente en febrero y en agosto** (inicio de semestre).
-3. Hacés una **prueba de nivelación** rápida para entrar al grupo correcto.
+## Aplicaciones como complemento
 
-## Otras opciones en la ciudad
-
-- **Cáritas SC**: ofrece cursos puntuales de portugués, generalmente asociados a otras orientaciones.
-- **Pastoral del Migrante**: tiene grupos de conversación informales.
-- **Iglesias y ONGs locales**: muchas ofrecen clases de portugués para sus comunidades. Preguntá en tu región.
-- **Aplicaciones**: Duolingo, Tandem (para practicar con hablantes nativos) — buenos complementos, no reemplazan la clase presencial.
+Duolingo y Tandem (para practicar con hablantes nativos) ayudan, pero **no reemplazan** la clase presencial y la convivencia.
 
 ## Tips para aprender más rápido
 
@@ -2138,9 +2120,11 @@ Están abiertos a migrantes — solo necesitás CPF.
         title: "Moradia",
         summary:
           "Orientações para alugar imóvel, programas habitacionais e abrigos emergenciais.",
-        body: `**Florianópolis tem um dos aluguéis mais caros do Sul do Brasil**, principalmente perto da praia (Lagoa, Jurerê, Ingleses) e no Centro. Bairros mais acessíveis: **Trindade, Capoeiras, Estreito, Coqueiros, Saco dos Limões**.
+        body: `**Florianópolis está entre os aluguéis mais caros do Sul do Brasil.** Os preços variam muito conforme o bairro, a temporada, a distância do Centro, a proximidade da UFSC, das praias e a oferta de transporte — então não dá pra apontar um bairro "barato" fixo.
 
-> **Alta temporada (dez–mar)** infla preços e reduz oferta de aluguel longo. Se der, **feche contrato até novembro**.
+> **Alta temporada (dez–mar)** infla preços e reduz oferta de aluguel longo. Se der, **feche contrato antes da temporada**.
+
+Antes de fechar contrato, compare aluguel, caução, contas extras e custo de deslocamento. Em situação de vulnerabilidade habitacional, procure o **CRAS** e verifique o **Cadastro Habitacional da Prefeitura**.
 
 Os tópicos abaixo cobrem desde como alugar de forma tradicional (com as exigências brasileiras), passando por alternativas pra quem está chegando, até o que fazer em emergência habitacional e programas públicos de moradia.`,
       },
@@ -2148,9 +2132,11 @@ Os tópicos abaixo cobrem desde como alugar de forma tradicional (com as exigên
         title: "Vivienda",
         summary:
           "Orientaciones para alquilar, programas habitacionales y refugios de emergencia.",
-        body: `**Florianópolis tiene uno de los alquileres más caros del Sur de Brasil**, sobre todo cerca de la playa (Lagoa, Jurerê, Ingleses) y en el Centro. Barrios más accesibles: **Trindade, Capoeiras, Estreito, Coqueiros, Saco dos Limões**.
+        body: `**Florianópolis está entre los alquileres más caros del Sur de Brasil.** Los precios varían mucho según el barrio, la temporada, la distancia del Centro, la cercanía de la UFSC, de las playas y la oferta de transporte — así que no se puede señalar un barrio "barato" fijo.
 
-> **Alta temporada (dic–mar)** infla precios y reduce la oferta de alquiler largo. Si podés, **cerrá contrato hasta noviembre**.
+> **Alta temporada (dic–mar)** infla precios y reduce la oferta de alquiler largo. Si podés, **cerrá contrato antes de la temporada**.
+
+Antes de cerrar contrato, compará alquiler, caución, cuentas extra y costo de traslado. En situación de vulnerabilidad habitacional, recurrí al **CRAS** y verificá el **Cadastro Habitacional de la Municipalidad**.
 
 Los temas debajo cubren desde cómo alquilar de forma tradicional (con las exigencias brasileñas), pasando por alternativas para quien está llegando, hasta qué hacer en emergencia habitacional y programas públicos de vivienda.`,
       },
@@ -2606,7 +2592,7 @@ Algunas cooperativas construyen vivienda colectiva más barata. **Investigá rep
 | Direitos Humanos | **100** |
 | Atendimento à mulher | **180** |
 
-> **Você tem direito a intérprete em qualquer atendimento de emergência ou delegacia.** Se não fala português bem, peça — está garantido por lei.
+> **Se você não fala português, peça apoio linguístico, intérprete ou mediação cultural.** Em delegacias, atendimentos jurídicos e situações formais, registre se não conseguir compreender o atendimento. Se o atendimento for negado ou houver discriminação, procure a DPU, o CRAS, o Disque 100 ou organizações de apoio.
 
 Os tópicos abaixo cobrem como agir em **violência**, **xenofobia/discriminação** e **perda de documentos** — situações que infelizmente acontecem e que têm caminhos legais e gratuitos pra resolver.`,
       },
@@ -2625,7 +2611,7 @@ Os tópicos abaixo cobrem como agir em **violência**, **xenofobia/discriminaç�
 | Derechos Humanos | **100** |
 | Atención a la mujer | **180** |
 
-> **Tenés derecho a intérprete en cualquier atención de emergencia o comisaría.** Si no hablás bien portugués, pedilo — está garantizado por ley.
+> **Si no hablás portugués, pedí apoyo lingüístico, intérprete o mediación cultural.** En comisarías, atenciones jurídicas y situaciones formales, dejá registrado si no lográs entender la atención. Si te niegan la atención o hay discriminación, recurrí a la DPU, el CRAS, el Disque 100 u organizaciones de apoyo.
 
 Los temas debajo cubren cómo actuar en **violencia**, **xenofobia/discriminación** y **pérdida de documentos** — situaciones que lamentablemente pasan y que tienen caminos legales y gratuitos para resolver.`,
       },
@@ -2759,7 +2745,7 @@ Si sos mujer en violencia doméstica, **preferí el 180** cuando puedas.
 
 ## Você tem direito a
 
-- **Intérprete** gratuito se não fala português.
+- **Apoio de intérprete ou mediação** se não fala português — peça e registre se não conseguir compreender.
 - **Mulher**: ser atendida por **policial mulher** se preferir. Pedir.
 - **Acompanhamento de assistente social** durante o atendimento.
 - **Medida protetiva** (afastamento do agressor, proibição de aproximação) — emitida em até 24h.
@@ -2810,7 +2796,7 @@ Você **não precisa** decidir denunciar na hora — primeiro cuida da saúde, d
 
 ## Tenés derecho a
 
-- **Intérprete** gratuito si no hablás portugués.
+- **Apoyo de intérprete o mediación** si no hablás portugués — pedilo y dejá registro si no lográs entender.
 - **Mujer**: ser atendida por **policía mujer** si lo preferís. Pedilo.
 - **Acompañamiento de asistente social** durante la atención.
 - **Medida de protección** (alejamiento del agresor, prohibición de acercamiento) — emitida en hasta 24h.
@@ -2897,7 +2883,7 @@ Guarde em **mais de um lugar** (celular, e-mail, nuvem).
 | **Em loja/restaurante** | Procon SC (151) + BO |
 | **Em rede social/internet** | Print, BO online, denúncia na própria plataforma |
 
-> **Você tem direito de ser ouvida/ouvido em sua língua.** Tem direito de ter intérprete em qualquer atendimento estatal. Tem direito a tratamento digno.`,
+> **Você pode pedir pra ser ouvida/ouvido na sua língua.** Peça intérprete ou mediação nos atendimentos estatais e registre se não conseguir compreender. Você tem direito a tratamento digno.`,
           },
           es: {
             title: "Xenofobia y discriminación son delito",
@@ -2960,7 +2946,7 @@ Guardá en **más de un lugar** (celular, correo, nube).
 | **En negocio/restaurante** | Procon SC (151) + BO |
 | **En red social/internet** | Captura, BO online, denuncia en la propia plataforma |
 
-> **Tenés derecho a ser oída/oído en tu lengua.** Tenés derecho a intérprete en cualquier atención estatal. Tenés derecho a trato digno.`,
+> **Podés pedir ser oída/oído en tu lengua.** Pedí intérprete o mediación en las atenciones estatales y dejá registro si no lográs entender. Tenés derecho a trato digno.`,
           },
         },
       },
@@ -2995,7 +2981,7 @@ Anote o **número do BO** — você vai usar várias vezes.
 ### CRNM (Carteira de Registro Nacional Migratório)
 
 - Vá à **Polícia Federal**, agendamento obrigatório por gov.br/pf.
-- Leve: **BO da perda/roubo**, passaporte (ou cópia), comprovante de residência, **GRU paga** (~R$ 200).
+- Leve: **BO da perda/roubo**, passaporte (ou cópia), comprovante de residência, **GRU paga** (taxa de emissão da CRNM, R$ 204,77; confira o valor atual).
 - **Prazo: meses** até a CRNM física chegar. Você recebe protocolo provisório.
 
 ### Passaporte do seu país
@@ -3058,7 +3044,7 @@ Anotá el **número del BO** — vas a usarlo varias veces.
 ### CRNM (Cédula de Registro Nacional Migratorio)
 
 - Andá a la **Policía Federal**, agendamiento obligatorio por gov.br/pf.
-- Llevá: **BO de la pérdida/robo**, pasaporte (o copia), comprobante de domicilio, **GRU pagada** (~R$ 200).
+- Llevá: **BO de la pérdida/robo**, pasaporte (o copia), comprobante de domicilio, **GRU pagada** (tasa de emisión de la CRNM, R$ 204,77; confirmá el valor actual).
 - **Plazo: meses** hasta que la CRNM física llegue. Recibís protocolo provisorio.
 
 ### Pasaporte de tu país

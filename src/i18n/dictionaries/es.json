@@ -88,7 +88,7 @@
     "openSource": "El código y el contenido son abiertos. Quien quiera contribuir con textos, traducciones, nuevos contactos o mejoras técnicas puede acceder al repositorio en GitHub:",
     "openSourceLink": "PR3Stoot/imigrantes-floripa",
     "disclaimerTitle": "Aviso importante",
-    "disclaimerBeforeContact": "Si encontrás algo equivocado o desactualizado, por favor avisanos ",
+    "disclaimerBeforeContact": "La información aquí es una orientación inicial y fue verificada en junio de 2026; los servicios públicos cambian de dirección, horario, tasa y requisitos con frecuencia, así que confirmá siempre en los órganos oficiales antes de ir presencialmente. Si encontrás algo equivocado o desactualizado, por favor avisanos ",
     "disclaimerContactLink": "contactándonos",
     "disclaimerAfterContact": "."
   },
@@ -105,7 +105,8 @@
   },
   "footer": {
     "madeWith": "Hecho por voluntarios en Florianópolis.",
-    "contribute": "Contribuir en GitHub"
+    "contribute": "Contribuir en GitHub",
+    "notice": "Información verificada en junio de 2026. Los servicios públicos pueden cambiar de dirección, horario, tasa, requisitos y forma de atención. Antes de ir presencialmente, confirmá en los canales oficiales."
   },
   "common": {
     "loading": "Cargando...",

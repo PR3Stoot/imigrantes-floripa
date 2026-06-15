@@ -6,21 +6,21 @@ export const contacts: Contact[] = [
     categorySlug: "documentos",
     phone: "(48) 3281-6500",
     address:
-      "Floripa Shopping (Loja 132) - Rod. SC-401, 3116, Saco Grande, Florianópolis - SC",
+      "Floripa Shopping (Loja 132, térreo) - Rod. SC-401, 3116, Saco Grande, Florianópolis - SC",
     lat: -27.554043,
     lng: -48.498529,
     website: "https://www.gov.br/pf/pt-br",
-    hours: "Seg-Sex 10:00-17:00 (mediante agendamento)",
+    hours: "Seg-Sex 10:00-17:00 (somente com agendamento online)",
     translations: {
       pt: {
-        name: "Polícia Federal - Delegacia de Migração",
+        name: "Polícia Federal - Atendimento de Migração",
         description:
-          "Emissão de CRNM (Carteira de Registro Nacional Migratório) e regularização migratória.",
+          "Emissão de CRNM (Carteira de Registro Nacional Migratório) e regularização migratória. O atendimento de migração foi transferido para o Floripa Shopping — confirme o local atual e agende em gov.br/pf antes de ir.",
       },
       es: {
-        name: "Policía Federal - Delegación de Migración",
+        name: "Policía Federal - Atención de Migración",
         description:
-          "Emisión de CRNM (Cédula de Registro Nacional Migratorio) y regularización migratoria.",
+          "Emisión de CRNM (Cédula de Registro Nacional Migratorio) y regularización migratoria. La atención de migración fue trasladada al Floripa Shopping — confirmá el lugar actual y agendá en gov.br/pf antes de ir.",
       },
     },
   },
@@ -32,17 +32,17 @@ export const contacts: Contact[] = [
     lat: -27.594728,
     lng: -48.560605,
     website: "https://www.gov.br/receitafederal/pt-br",
-    hours: "Seg-Sex 08:00-16:00 (mediante agendamento)",
+    hours: "Seg-Sex 08:00-16:00 (atendimento presencial mediante agendamento)",
     translations: {
       pt: {
         name: "Receita Federal - CPF",
         description:
-          "Inscrição e regularização de CPF. Estrangeiros podem solicitar gratuitamente.",
+          "Inscrição e regularização de CPF, gratuita pelos canais oficiais. Em muitos casos dá pra resolver online; o atendimento presencial costuma exigir agendamento. Confirme endereço e agendamento antes de ir.",
       },
       es: {
         name: "Receita Federal - CPF",
         description:
-          "Inscripción y regularización del CPF. Los extranjeros pueden solicitarlo gratis.",
+          "Inscripción y regularización del CPF, gratuita por los canales oficiales. En muchos casos se resuelve online; la atención presencial suele exigir agendamiento. Confirmá dirección y turno antes de ir.",
       },
     },
   },
@@ -55,12 +55,12 @@ export const contacts: Contact[] = [
       pt: {
         name: "CRAS - Centros de Referência de Assistência Social",
         description:
-          "Apoio social, Cadastro Único, Bolsa Família e orientação para famílias em situação de vulnerabilidade. Há 10 unidades em vários bairros — procure a do seu território (lista no site da SEMAS); atendimento mediante agendamento.",
+          "Apoio social, Cadastro Único, Bolsa Família e orientação para famílias em situação de vulnerabilidade. Há 10 unidades em vários bairros — procure a do seu território (lista no site da SEMAS). Atendimento mediante agendamento; confirme endereço, telefone e horário antes de ir.",
       },
       es: {
         name: "CRAS - Centros de Referencia de Asistencia Social",
         description:
-          "Apoyo social, registro único (CadÚnico), Bolsa Família y orientación para familias en situación de vulnerabilidad. Hay 10 unidades en varios barrios — busque la de su territorio (lista en el sitio de SEMAS); atención con cita previa.",
+          "Apoyo social, Cadastro Único, Bolsa Família y orientación para familias en situación de vulnerabilidad. Hay 10 unidades en varios barrios — buscá la de tu territorio (lista en el sitio de SEMAS). Atención con cita previa; confirmá dirección, teléfono y horario antes de ir.",
       },
     },
   },
@@ -68,23 +68,24 @@ export const contacts: Contact[] = [
     id: "caritas-sc",
     categorySlug: "assistencia-social",
     phone: "(48) 3234-7033",
-    email: "caritassc@caritas.org.br",
+    whatsapp: "(48) 99829-2008",
+    email: "casadedireitos.sc@caritas.org.br",
     address:
       "Casa de Direitos - Rua Antônio Mariano de Souza, 1135 - Ipiranga, São José - SC",
     lat: -27.564678,
     lng: -48.626107,
-    website: "https://www.sc.caritas.org.br",
+    website: "https://sc.caritas.org.br",
     hours: "Seg-Sex 13:30-18:00",
     translations: {
       pt: {
-        name: "Cáritas Brasileira - Regional SC",
+        name: "Cáritas SC - Casa de Direitos (migrantes e refugiados)",
         description:
-          "Atendimento a migrantes, refugiados e solicitantes de refúgio (parceira do ACNUR). Orientação sobre acesso a direitos e serviços públicos e encaminhamentos. Atendimento na Casa de Direitos, em São José.",
+          "Atendimento a migrantes, refugiados e solicitantes de refúgio (parceira do ACNUR): orientação sobre acesso a direitos e serviços públicos e encaminhamentos. Confirme endereço, contato e horário atuais antes de ir presencialmente.",
       },
       es: {
-        name: "Cáritas Brasileña - Regional SC",
+        name: "Cáritas SC - Casa de Direitos (migrantes y refugiados)",
         description:
-          "Atención a migrantes, refugiados y solicitantes de refugio (aliada del ACNUR). Orientación sobre acceso a derechos y servicios públicos y derivaciones. Atención en la Casa de Direitos, en São José.",
+          "Atención a migrantes, refugiados y solicitantes de refugio (aliada del ACNUR): orientación sobre acceso a derechos y servicios públicos y derivaciones. Confirmá dirección, contacto y horario actuales antes de ir presencialmente.",
       },
     },
   },
@@ -168,8 +169,8 @@ export const contacts: Contact[] = [
   {
     id: "consorcio-fenix",
     categorySlug: "transporte",
-    phone: "(48) 3112-1850",
-    email: "cadastro@passerapido.com.br",
+    phone: "(48) 3025-6868",
+    email: "sac@consorciofenix.com.br",
     address: "Av. Paulo Fontes, 701 - TICEN, Centro, Florianópolis - SC",
     lat: -27.59859,
     lng: -48.55382,
@@ -179,12 +180,12 @@ export const contacts: Contact[] = [
       pt: {
         name: "Passe Rápido - Consórcio Fênix",
         description:
-          "Emissão e recarga do cartão Passe Rápido para o transporte público de Florianópolis. Há também tarifa social para quem se qualifica.",
+          "Emissão e recarga do cartão para o transporte público de Florianópolis. Pagar com Cartão Cidadão costuma sair mais barato que dinheiro, QR Code ou Pix. Confira valores, regras de integração e locais de atendimento atualizados no site oficial. Há também tarifa social para quem se qualifica.",
       },
       es: {
         name: "Passe Rápido - Consorcio Fênix",
         description:
-          "Emisión y recarga de la tarjeta Passe Rápido para el transporte público de Florianópolis. También hay tarifa social para quien califica.",
+          "Emisión y recarga de la tarjeta para el transporte público de Florianópolis. Pagar con Cartão Cidadão suele salir más barato que efectivo, QR Code o Pix. Consultá valores, reglas de integración y puntos de atención actualizados en el sitio oficial. También hay tarifa social para quien califica.",
       },
     },
   },
@@ -194,21 +195,21 @@ export const contacts: Contact[] = [
     phone: "(48) 3664-0625",
     email: "florianopolis@sine.sc.gov.br",
     address:
-      "Terminal Rita Maria (2º andar) - Av. Paulo Fontes, 1101, Centro, Florianópolis - SC",
+      "Terminal Rodoviário Rita Maria, 2º andar - Av. Paulo Fontes, 1101, Centro, Florianópolis - SC",
     lat: -27.597167,
     lng: -48.558026,
-    website: "https://www.gov.br/trabalho-e-emprego/pt-br",
-    hours: "Seg-Sex 08:00-18:00",
+    website: "https://www.sicos.sc.gov.br/sine/",
+    hours: "Seg-Sex (confirme o horário de atendimento)",
     translations: {
       pt: {
         name: "SINE - Sistema Nacional de Emprego",
         description:
-          "Intermediação de vagas, encaminhamento para entrevistas e habilitação do seguro-desemprego.",
+          "Intermediação de vagas, encaminhamento para entrevistas e habilitação do seguro-desemprego. Telefones: (48) 3664-0625 e (48) 3665-9082. Confirme horário e atendimento pelos canais oficiais do SINE/SC antes de ir.",
       },
       es: {
         name: "SINE - Sistema Nacional de Empleo",
         description:
-          "Intermediación de vacantes, derivación a entrevistas y solicitud de seguro de desempleo.",
+          "Intermediación de vacantes, derivación a entrevistas y solicitud de seguro de desempleo. Teléfonos: (48) 3664-0625 y (48) 3665-9082. Confirmá horario y atención por los canales oficiales del SINE/SC antes de ir.",
       },
     },
   },
@@ -219,33 +220,35 @@ export const contacts: Contact[] = [
     website: "https://neplac.paginas.ufsc.br",
     translations: {
       pt: {
-        name: "NePLAc UFSC - Português como Língua de Acolhimento",
+        name: "Português para migrantes e refugiados (UFSC e redes locais)",
         description:
-          "Cursos gratuitos de português para imigrantes e refugiados — projeto Rodamundo do NePLAc/UFSC. Inscrições online por edital a cada semestre; aulas presenciais no campus Trindade.",
+          "Cursos gratuitos de português de acolhimento em Florianópolis. Na UFSC, o NePLAc (projeto Rodamundo) oferece turmas para imigrantes e refugiados, com inscrições por edital a cada semestre e aulas no campus Trindade; há também o PET Letras, o Idiomas Sem Fronteiras (UFSC) e cursos do IFSC. As turmas mudam a cada semestre — confirme a disponibilidade antes.",
       },
       es: {
-        name: "NePLAc UFSC - Portugués como Lengua de Acogida",
+        name: "Portugués para migrantes y refugiados (UFSC y redes locales)",
         description:
-          "Cursos gratuitos de portugués para inmigrantes y refugiados — proyecto Rodamundo del NePLAc/UFSC. Inscripciones online por convocatoria cada semestre; clases presenciales en el campus Trindade.",
+          "Cursos gratuitos de portugués de acogida en Florianópolis. En la UFSC, el NePLAc (proyecto Rodamundo) ofrece clases para inmigrantes y refugiados, con inscripciones por convocatoria cada semestre y clases en el campus Trindade; también está el PET Letras, el Idiomas Sem Fronteiras (UFSC) y cursos del IFSC. Los grupos cambian cada semestre — confirmá la disponibilidad antes.",
       },
     },
   },
   {
     id: "defensoria-publica-uniao",
     categorySlug: "emergencias",
-    phone: "(48) 99937-0645",
+    phone: "(48) 3221-9400",
+    whatsapp: "(48) 3221-9420",
+    address: "Rua Almirante Lamego, 1386 - Centro, Florianópolis - SC",
     website: "https://www.dpu.def.br",
-    hours: "Seg-Sex 09:00-17:00 (atendimento remoto)",
+    hours: "Seg-Sex 09:00-17:00 (confirme se o atendimento é presencial ou remoto)",
     translations: {
       pt: {
         name: "Defensoria Pública da União",
         description:
-          "Assistência jurídica gratuita, inclusive para migrantes e solicitantes de refúgio. Atendimento remoto (sem posto físico em Floripa): agendamento pelo telefone/WhatsApp, pelo site (siage.dpu.def.br) ou pelo app DPU Cidadão.",
+          "Assistência jurídica gratuita, inclusive para migrantes e solicitantes de refúgio. O atendimento também pode ser remoto — agendamento por telefone/WhatsApp, pelo site (siage.dpu.def.br) ou pelo app DPU Cidadão. Confirme endereço e forma de atendimento antes de ir.",
       },
       es: {
         name: "Defensoría Pública de la Unión",
         description:
-          "Asistencia jurídica gratuita, también para migrantes y solicitantes de refugio. Atención remota (sin oficina física en Floripa): agendamiento por teléfono/WhatsApp, por el sitio (siage.dpu.def.br) o por la app DPU Cidadão.",
+          "Asistencia jurídica gratuita, también para migrantes y solicitantes de refugio. La atención también puede ser remota — agendamiento por teléfono/WhatsApp, por el sitio (siage.dpu.def.br) o por la app DPU Cidadão. Confirmá dirección y forma de atención antes de ir.",
       },
     },
   },
